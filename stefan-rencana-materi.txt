@@ -3,6 +3,7 @@ Rencana materi pembelajaran:
   * JavaScript Frameworks
     ^ Vue
     ^ Angular
+    ^ React
 - Data Structure
 - PHP
   * OOP PHP
