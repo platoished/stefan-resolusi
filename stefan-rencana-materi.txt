@@ -1,5 +1,6 @@
 Rencana materi pembelajaran:
 - JavaScript
+- Data Structure
 - PHP
   * OOP PHP
 - Frameworks
