@@ -2,3 +2,5 @@ Resolusi:
 - Komitmen belajar setiap hari
 - Mengerjakan mini project
 - Menjadi seorang fullstack web developer
+- Memahami front-end dan back-end dengan baik
+- Bekerja di perusahaan ternama
