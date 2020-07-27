@@ -1,10 +1,11 @@
 Rencana materi pembelajaran:
 - JavaScript
-  * Framework
+  * JavaScript Frameworks
     ^ Vue
+    ^ Angular
 - Data Structure
 - PHP
   * OOP PHP
-  * Laravel Frameworks
+  * PHP Frameworks
     ^ Laravel
 - Python
