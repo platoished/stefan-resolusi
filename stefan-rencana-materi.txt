@@ -3,4 +3,6 @@ Rencana materi pembelajaran:
 - Data Structure
 - PHP
   * OOP PHP
+    ^ Laravel
 - Frameworks
+- Python
